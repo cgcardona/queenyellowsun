@@ -1,8 +1,8 @@
 {
-  "name": "gabriel",
+  "name": "queenyellowsun",
   "version": "0.0.1",
   "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "homepage": "http://www.queenyellowsun.earth",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -35,7 +35,6 @@
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.18"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "description": "An Ionic project"
 }
